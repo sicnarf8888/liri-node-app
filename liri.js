@@ -15,8 +15,7 @@ var spotify = new Spotify({
 });
 
 // Take two arguments.
-// The first will be the action (i.e. "deposit", "withdraw", etc.)
-// The second will be the amount that will be added, withdrawn, etc.
+
 var action = process.argv[2];
 var value = process.argv[3];
 
