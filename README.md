@@ -22,21 +22,9 @@ This will search the Spotify API and return data related to the desired song.
 
 #### Command option 3: node liri.js movie-this + movie name here
 
-<<<<<<< HEAD
 This will search the OMDB API and return data related to the desired movie. 
-=======
-![concert](https://user-images.githubusercontent.com/25557837/84585429-9bf5e480-adc4-11ea-86fd-1c8a9b739b7d.PNG)
-
-
-Command option 2 node liri.js spotify-this-song + <song name here> This will search the Spotify API and return data related to the desired song. 
-  
-![spotify](https://user-images.githubusercontent.com/25557837/84585457-d2cbfa80-adc4-11ea-8b9c-2f375018ae6e.PNG)
-
->>>>>>> cf911ad104c5e2c343c17aa12ae8d93ffbd42372
 
 #### Command option 4 node liri.js do-what-it-says 
-
-<<<<<<< HEAD
 This will take the text inside of the random.txt file and use it to call one of the Liri commands.
 
 #### Technologies
@@ -49,26 +37,10 @@ This will take the text inside of the random.txt file and use it to call one of 
 - Bandsintown
 - OMDB
 - Spotify
-=======
-![movie this](https://user-images.githubusercontent.com/25557837/84585458-d6f81800-adc4-11ea-8732-cca8c728962b.PNG)
-
-Command option 4 node liri.js do-what-it-says This will take the text inside of the random.txt file and use it to call one of the Liri commands.
-
-![do what it says](https://user-images.githubusercontent.com/25557837/84585463-e0818000-adc4-11ea-9f19-71bd4ce990f3.PNG)
 
 
 
 
 
 
-Technologies
-Node.js
-npm axios
-npm inquirer
-npm dotenv
 
-APIs
-Bandsintown
-OMDB
-Spotify
->>>>>>> cf911ad104c5e2c343c17aa12ae8d93ffbd42372
