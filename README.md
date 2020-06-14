@@ -15,6 +15,9 @@ Command option 1 node liri.js concert-this + <Artist/Band Name here> This will s
 
 
 Command option 2 node liri.js spotify-this-song + <song name here> This will search the Spotify API and return data related to the desired song. 
+  
+![spotify](https://user-images.githubusercontent.com/25557837/84585457-d2cbfa80-adc4-11ea-8b9c-2f375018ae6e.PNG)
+
 
 Command option 3 node liri.js movie-this + <movie name here> This will search the OMDB API and return data related to the desired movie. 
 
